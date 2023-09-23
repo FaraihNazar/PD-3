@@ -18,7 +18,7 @@ cout<<"Enter the number of child tickets sold: ";
 cin>>c_tickets_sold;
 cout<<"Enter the percentage of the amount to be donated to charity: ";
 cin>>charity;
-cout<<"                                             "<<endl;
+cout<<endl;
 cout<<"Movie: "<<name<<endl;
 float X=a_ticket_price*a_tickets_sold+c_ticket_price*c_tickets_sold;
 cout<<"Total amount generated from ticket sales: $"<<X<<endl;
